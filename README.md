@@ -11,7 +11,6 @@ Hello! Welcome to My Github Profile | I'm a Newbie!
 ## Socials :
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://tiktok.com/@kayzennotdev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@kayzennotdev) 
 
-### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 ---
 [![](https://visitcount.itsvg.in/api?id=kayzennotdev&icon=9&color=1)](https://visitcount.itsvg.in)
